@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "homepage": ".",
   "dependencies": {
     "chart.js": "^4.0.0",
     "react": "^18.0.0",
